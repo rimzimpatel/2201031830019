@@ -1,0 +1,312 @@
+.advertisement4 {
+  height: 22px;
+  width: 356px;
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.advertisement-container {
+  width: 480px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.frame-root,
+.image-1-icon6 {
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.image-1-icon6 {
+  align-self: stretch;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-root {
+  width: 970px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1px 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.healthy-recipes1 {
+  color: inherit;
+}
+.healthy-recipes {
+  margin-bottom: 0;
+}
+.meal-plans1 {
+  color: inherit;
+}
+.meal-plans {
+  margin-bottom: 0;
+}
+.healthy-eating1 {
+  color: inherit;
+}
+.healthy-eating {
+  margin-bottom: 0;
+}
+.healthy-cooking1 {
+  color: inherit;
+}
+.healthy-cooking {
+  margin-bottom: 0;
+}
+.healthy-lifestyle1 {
+  color: inherit;
+}
+.healthy-lifestyle {
+  margin-bottom: 0;
+}
+.special-diets1 {
+  color: inherit;
+}
+.special-diets {
+  margin-bottom: 0;
+}
+.diabetes2 {
+  color: inherit;
+}
+.diabetes1 {
+  margin-bottom: 0;
+}
+.news {
+  color: inherit;
+}
+.healthy-recipes-meal-plans-hea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+}
+.healthy-recipes-meal-container {
+  height: 240px;
+  width: 280px;
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 280px;
+}
+.about-us1 {
+  color: inherit;
+}
+.about-us {
+  margin-bottom: 0;
+}
+.diversity-inclusion1 {
+  color: inherit;
+}
+.diversity-inclusion {
+  margin-bottom: 0;
+}
+.nutrition-guidelines1 {
+  color: inherit;
+}
+.nutrition-guidelines {
+  margin-bottom: 0;
+}
+.privacy-policy1 {
+  color: inherit;
+}
+.privacy-policy {
+  margin-bottom: 0;
+}
+.product-reviews1 {
+  color: inherit;
+}
+.product-reviews {
+  margin-bottom: 0;
+}
+.advertise1 {
+  color: inherit;
+}
+.advertise {
+  margin-bottom: 0;
+}
+.terms-of-service1 {
+  color: inherit;
+}
+.terms-of-service {
+  margin-bottom: 0;
+}
+.careers1 {
+  color: inherit;
+}
+.careers {
+  margin-bottom: 0;
+}
+.contact {
+  color: inherit;
+}
+.about-us-diversity-inclusion {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+}
+.about-us-diversity-container {
+  width: 272px;
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 272px;
+}
+.healthy-recipes-meal-plans-hea-parent {
+  width: 788px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.multi-frame {
+  width: 948px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.click-to-logout-child {
+  height: 89px;
+  width: 338px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  display: none;
+  max-width: 100%;
+}
+.click-here-to {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.click-to-logout,
+.click-to-logout-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.click-to-logout {
+  cursor: pointer;
+  border: 0;
+  padding: 30px;
+  background-color: var(--color-gainsboro-100);
+  width: 338px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.click-to-logout:hover {
+  background-color: #bfbfbf;
+}
+.click-to-logout-wrapper {
+  width: 389px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookshook-is-a {
+  margin: 0;
+  align-self: stretch;
+  height: 99px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.desktop-51,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-parent4 {
+  width: 853px;
+  padding: 0;
+  gap: 62px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.desktop-51 {
+  width: 100%;
+  position: relative;
+  background-color: #819eaf;
+  overflow: hidden;
+  padding: var(--padding-72xl) var(--padding-23xl) 0 var(--padding-xl);
+  gap: 77px 0;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 36px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1025px) {
+  .desktop-51 {
+    gap: 77px 0;
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .cookshook-is-a {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent4 {
+    gap: 62px 0;
+  }
+}
+@media screen and (max-width: 725px) {
+  .about-us-diversity-container,
+  .healthy-recipes-meal-container {
+    flex: 1;
+  }
+  .healthy-recipes-meal-plans-hea-parent {
+    flex-wrap: wrap;
+  }
+  .desktop-51 {
+    gap: 77px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us-diversity-container,
+  .advertisement4,
+  .healthy-recipes-meal-container {
+    font-size: var(--font-size-lgi);
+  }
+  .cookshook-is-a {
+    font-size: 22px;
+  }
+  .frame-parent4 {
+    gap: 62px 0;
+  }
+}

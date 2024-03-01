@@ -1,0 +1,246 @@
+.special-types-of {
+  width: 1112px;
+  position: relative;
+  display: inline-block;
+  font-weight: 900;
+  flex-shrink: 0;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.frame-diets-icon {
+  height: 3px;
+  width: 1039px;
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+  margin-left: -1109px;
+}
+.f-r-a-m-e-a,
+.f-r-a-m-e-b {
+  width: 1112px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.f-r-a-m-e-a {
+  width: 1230px;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.blank-line10,
+.blank-line11,
+.blank-line5,
+.blank-line6,
+.blank-line7,
+.blank-line8,
+.blank-line9,
+.diabetes,
+.index,
+.keto,
+.liquid,
+.low-glycemic,
+.mediterranean,
+.paleo,
+.vegan,
+.weight-loss {
+  margin: 0;
+}
+.diabetes-keto-vegan-container {
+  height: 672px;
+  width: 567px;
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.frame-advertisement,
+.frame-advertisement1,
+.frame-advertisement2,
+.frame-advertisement3,
+.frame-lowg,
+.frame-lowg1,
+.rectangle-b,
+.rectangle-d {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro-100);
+  align-self: stretch;
+  height: 56px;
+  position: relative;
+  min-width: 67px;
+}
+.multi-rectangles,
+.rectangle-c {
+  display: flex;
+  justify-content: flex-start;
+}
+.multi-rectangles {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 31px 0;
+}
+.rectangle-c {
+  gap: 37px 0;
+}
+.frame-paleo,
+.rectangle-a,
+.rectangle-c {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle-a {
+  display: flex;
+  justify-content: flex-start;
+  gap: 30px 0;
+}
+.frame-paleo {
+  gap: 37px 0;
+}
+.frame-c,
+.frame-paleo,
+.frame-weightloss {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-weightloss {
+  width: 112px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-9xl);
+  box-sizing: border-box;
+  margin-left: -233px;
+}
+.frame-c {
+  width: 567px;
+  flex-direction: row;
+  align-items: flex-end;
+  min-width: 567px;
+  max-width: 100%;
+}
+.advertisement3,
+.image-1-icon5 {
+  position: relative;
+  max-width: 100%;
+}
+.advertisement3 {
+  width: 393px;
+  height: 22px;
+  font-weight: 200;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.image-1-icon5 {
+  height: 340px;
+  width: 416px;
+  object-fit: cover;
+}
+.advertisement-frame2,
+.frame-text,
+.image-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.advertisement-frame2,
+.frame-text {
+  flex-direction: column;
+}
+.advertisement-frame2 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 11px 0;
+}
+.frame-text {
+  width: 497px;
+  align-items: flex-start;
+  padding: var(--padding-86xl) 0 0;
+  box-sizing: border-box;
+  min-width: 497px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-31,
+.frame-basic {
+  display: flex;
+  align-items: center;
+}
+.frame-basic {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.desktop-31 {
+  width: 100%;
+  position: relative;
+  background-color: #6c879f;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) var(--padding-23xl) var(--padding-86xl) 84px;
+  box-sizing: border-box;
+  gap: 52px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .special-types-of {
+    display: none;
+  }
+  .f-r-a-m-e-b {
+    width: 0;
+  }
+  .frame-c,
+  .frame-text {
+    flex: 1;
+  }
+  .frame-basic {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .diabetes-keto-vegan-container {
+    font-size: 26px;
+  }
+  .frame-c,
+  .frame-text {
+    min-width: 100%;
+  }
+  .frame-text {
+    padding-top: 68px;
+    box-sizing: border-box;
+  }
+  .desktop-31 {
+    gap: 52px 0;
+    padding-left: var(--padding-23xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .advertisement3,
+  .diabetes-keto-vegan-container {
+    font-size: var(--font-size-lgi);
+  }
+  .desktop-31 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,363 @@
+.top-10-easy {
+  margin: 0;
+  align-self: stretch;
+  height: 61px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.text-recipe-name-child {
+  height: 1.7px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.text-recipe-name {
+  width: 748px;
+  height: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-1-child,
+.top-10-easy-and-healthy-recipe-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.top-10-easy-and-healthy-recipe-parent {
+  width: 906px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7px 0;
+}
+.desktop-1-child {
+  width: 1102px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-30xl);
+  box-sizing: border-box;
+}
+.image-1-icon3 {
+  height: 279px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.image-1-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 8px;
+}
+.pea-and-spinach {
+  width: 318px;
+  height: 61px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-div {
+  width: 357px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xl) 0 0;
+  box-sizing: border-box;
+  gap: 38px 0;
+  max-width: 100%;
+}
+.image-2-icon1 {
+  width: 298.5px;
+  flex: 1;
+  position: relative;
+  border-radius: 11px;
+  max-height: 100%;
+  object-fit: contain;
+}
+.chholechickpea-curry {
+  height: 61px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.chholechickpea-curry-wrapper,
+.image-2-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chholechickpea-curry-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 9px;
+}
+.image-2-parent {
+  height: 379px;
+  width: 327px;
+  flex-direction: column;
+  gap: 37px 0;
+  max-width: 100%;
+}
+.image-3-icon1 {
+  height: 281px;
+  flex: 1;
+  position: relative;
+  border-radius: 18px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.image-3-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sesame-noodles-with {
+  width: 320px;
+  height: 72px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-parent1 {
+  width: 348px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 28px 0;
+  max-width: 100%;
+}
+.frame-section {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.image-4-icon1 {
+  width: 339px;
+  height: 303.8px;
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+}
+.spinach-and-feta {
+  height: 72px;
+  width: 356px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.pea-spinach-text,
+.recipe-image-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.pea-spinach-text {
+  flex-direction: row;
+  padding: 0 0 0 6px;
+  box-sizing: border-box;
+}
+.recipe-image-frame {
+  flex-direction: column;
+  gap: 22px 0;
+  min-width: 362px;
+}
+.image-5-icon {
+  width: 355px;
+  height: 310px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.scallop-scampi-with {
+  height: 72px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.chickpea-curry-text,
+.scallop-scampi-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.scallop-scampi-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 33px;
+  box-sizing: border-box;
+}
+.chickpea-curry-text {
+  width: 388px;
+  flex-direction: column;
+  gap: 13px 0;
+  min-width: 388px;
+}
+.pea-spinach-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-container,
+.text-next-page {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text-next-page {
+  width: 934px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-12xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-container {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px 0;
+  flex-shrink: 0;
+}
+.next-page {
+  margin: 0;
+  height: 83px;
+  width: 368px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.next-page-wrapper {
+  width: 506px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--font-size-21xl);
+}
+.desktop-11 {
+  width: 100%;
+  position: relative;
+  background-color: #7a93a5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 34px 0 98px;
+  box-sizing: border-box;
+  gap: 21px 0;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .frame-section {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .chickpea-curry-text,
+  .recipe-image-frame {
+    flex: 1;
+  }
+  .pea-spinach-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .top-10-easy {
+    font-size: var(--font-size-19xl);
+  }
+  .chickpea-curry-text,
+  .recipe-image-frame {
+    min-width: 100%;
+  }
+  .next-page {
+    font-size: var(--font-size-13xl);
+  }
+  .desktop-11 {
+    padding-left: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .top-10-easy {
+    font-size: var(--font-size-10xl);
+  }
+  .pea-and-spinach {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-div {
+    gap: 38px 0;
+  }
+  .chholechickpea-curry {
+    font-size: var(--font-size-lgi);
+  }
+  .image-2-parent {
+    gap: 37px 0;
+  }
+  .scallop-scampi-with,
+  .sesame-noodles-with,
+  .spinach-and-feta {
+    font-size: var(--font-size-lgi);
+  }
+  .next-page {
+    font-size: var(--font-size-5xl);
+  }
+  .desktop-11 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,383 @@
+.image-1-icon4 {
+  width: 301px;
+  height: 276px;
+  position: relative;
+  object-fit: cover;
+}
+.lemon-rice {
+  width: 329px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.image-4-icon2 {
+  width: 280px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tandoori-tofu {
+  height: 45px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.tandoori-tofu-wrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-lgi);
+}
+.frame-wrapper2,
+.image-4-parent,
+.tandoori-tofu-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.image-4-parent {
+  width: 317px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 48px 0;
+}
+.frame-wrapper2 {
+  height: 357px;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.lemon-rice-parent {
+  width: 428px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 67px 0;
+}
+.desktop-2-inner,
+.frame-wrapper1,
+.image-1-parent,
+.lemon-rice-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.desktop-2-inner,
+.image-1-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image-1-parent {
+  align-self: stretch;
+  gap: 34px 0;
+}
+.desktop-2-inner {
+  width: 500px;
+  padding: 7px 0 0;
+  box-sizing: border-box;
+  min-width: 500px;
+}
+.page-2 {
+  margin: 0;
+  height: 125px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 900;
+  font-family: inherit;
+  max-width: 100%;
+}
+.page-title {
+  width: 602px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-2-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.saag-paneer {
+  width: 262px;
+  position: relative;
+  display: inline-block;
+}
+.image-2-group {
+  height: 340px;
+  width: 322px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 39px 0;
+  min-width: 322px;
+  max-width: 100%;
+}
+.image-3-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.daal-tarka,
+.spiced-lentils {
+  margin: 0;
+}
+.daal-tarka-spiced-lentils-container {
+  width: 257px;
+  height: 47px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tandoori-frame {
+  height: 348px;
+  width: 301px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 25px 0;
+  min-width: 301px;
+}
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+}
+.frame-wrapper3,
+.page-title-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.page-title-parent {
+  width: 794px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.image-5-icon1 {
+  width: 298px;
+  height: 264px;
+  position: relative;
+  object-fit: cover;
+}
+.pongal-with-tomato {
+  height: 53px;
+  width: 325px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.image-5-parent,
+.pongal-frame,
+.saag-paneer-label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.saag-paneer-label {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+}
+.image-5-parent,
+.pongal-frame {
+  flex-direction: column;
+}
+.image-5-parent {
+  align-self: stretch;
+  gap: 25px 0;
+}
+.pongal-frame {
+  flex: 1;
+  min-width: 221px;
+  min-height: 475px;
+}
+.advertisement2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 200;
+  z-index: 1;
+}
+.rectangle-frame1 {
+  width: 297px;
+  height: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 38px;
+  box-sizing: border-box;
+}
+.image-6-icon {
+  align-self: stretch;
+  height: 250px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.advertisement-frame1,
+.advertisement-label {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.advertisement-label {
+  flex: 1;
+  flex-direction: column;
+  gap: 13px 0;
+  min-width: 223px;
+  font-size: 20px;
+}
+.advertisement-frame1 {
+  width: 701px;
+  flex-direction: row;
+  gap: 0 18px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-21,
+.frame-parent2 {
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-parent2 {
+  width: 892px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 57px 0;
+  min-width: 892px;
+  max-width: 100%;
+  flex-shrink: 0;
+  margin-left: -21px;
+  font-size: var(--font-size-45xl);
+}
+.desktop-21 {
+  width: 100%;
+  position: relative;
+  background-color: #6c8699;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-lgi) 0 0 80px;
+  box-sizing: border-box;
+  letter-spacing: normal;
+  row-gap: 20px;
+  font-size: var(--font-size-5xl);
+}
+@media screen and (max-width: 1350px) {
+  .desktop-2-inner {
+    flex: 1;
+  }
+  .frame-parent2 {
+    flex: 1;
+    margin-left: 0;
+  }
+  .desktop-21 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-lgi);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent2 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .image-1-parent {
+    gap: 34px 0;
+  }
+  .desktop-2-inner {
+    min-width: 100%;
+  }
+  .page-2 {
+    font-size: var(--font-size-32xl);
+  }
+  .image-2-group,
+  .tandoori-frame {
+    flex: 1;
+  }
+  .frame-parent3 {
+    flex-wrap: wrap;
+  }
+  .pongal-frame {
+    min-height: auto;
+  }
+  .advertisement-frame1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .lemon-rice,
+  .tandoori-tofu {
+    font-size: var(--font-size-lgi);
+  }
+  .image-4-parent {
+    gap: 48px 0;
+  }
+  .lemon-rice-parent {
+    gap: 67px 0;
+  }
+  .page-2 {
+    font-size: var(--font-size-19xl);
+  }
+  .saag-paneer {
+    font-size: var(--font-size-lgi);
+  }
+  .image-2-group {
+    gap: 39px 0;
+  }
+  .daal-tarka-spiced-lentils-container,
+  .pongal-with-tomato {
+    font-size: var(--font-size-lgi);
+  }
+  .advertisement2 {
+    font-size: 16px;
+  }
+  .frame-parent2 {
+    gap: 57px 0;
+  }
+}
